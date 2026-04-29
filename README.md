@@ -16,7 +16,7 @@ Durante o desenvolvimento deste projeto, foram aplicados na prática os seguinte
 
 ### 🔁 Estruturas de Repetição
 
-* Uso de `for`, `while` e `do-while`
+* Uso de `for`
 * Iteração eficiente sobre coleções de dados
 
 ### 📐 Operações com Arrays
